@@ -4,6 +4,6 @@ public class BotonBancolombia implements IPay{
 
     @Override
     public String Pay() {
-        return "Pagando...";
+        return "Pagando con Bancolombia...";
     }
 }
